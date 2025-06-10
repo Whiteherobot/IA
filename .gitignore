@@ -1,0 +1,51 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment
+env/
+venv/
+ENV/
+.venv/
+
+# VSCode settings
+.vscode/
+
+# PyCharm settings
+.idea/
+
+# Data files
+*.csv
+*.tsv
+*.h5
+*.hdf5
+*.pkl
+*.joblib
+*.npz
+*.npy
+
+# Model weights
+*.ckpt
+*.pt
+*.pth
+*.onnx
+
+# Compressed files
+*.zip
+*.tar.gz
+*.tar
+*.rar
+
+# Datasets
+food-101/images
+cifar-10-batches-py/
+cifar-10-python/
+cifar-10-python.tar.gz
+
+# System files
+.DS_Store
+Thumbs.db
