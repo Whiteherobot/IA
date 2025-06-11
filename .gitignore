@@ -45,6 +45,7 @@ food-101/images
 cifar-10-batches-py/
 cifar-10-python/
 cifar-10-python.tar.gz
+food-101/
 
 # System files
 .DS_Store
